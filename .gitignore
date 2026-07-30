@@ -1,0 +1,12 @@
+# Runtime input and output data
+Video_data/*.mp4
+Pedestrian_data/1.Pedestrian_trajectory_raw/**/*.csv
+Pedestrian_data/2.Pedestrian_trajectory_processed/**/*.csv
+
+# Temporary and cache files
+*.part.csv
+*.part.mp4
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
