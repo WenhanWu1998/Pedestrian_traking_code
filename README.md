@@ -1,4 +1,4 @@
-# Kabukicho Pedestrian Trajectory Processing Code
+# Pedestrian Trajectory Processing Code
 
 This repository contains the processing code used to extract, georeference, and smooth pedestrian trajectories from fixed-camera street videos in Kabukicho, Tokyo. The workflow converts raw MP4 videos into pedestrian bounding-box trajectories, derives image and real-world coordinates, and produces smoothed trajectories sampled at 0.5-second intervals.
 
